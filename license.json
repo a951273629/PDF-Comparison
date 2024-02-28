@@ -1,0 +1,26 @@
+{
+  "product": "pdf2Data",
+  "licensee": {
+    "company": "None",
+    "name": "Wang Nan",
+    "email": "951273629@qq.com"
+  },
+  "key": "6ca955ba5a128dce40f0cd9f331da9f3fdb316f77d614862f5acc4752e9fcd8f",
+  "creationDate": "2024-01-04",
+  "expirationDate": "2024-02-04",
+  "onExpiration": "fail",
+  "platform": "any",
+  "licenseType": "trial",
+  "productVersion": {
+    "major": 4
+  },
+  "limits": {
+    "default": {
+      "limitType": "unlimited",
+      "sendEvents": false
+    }
+  },
+  "licenseVersion": "1.0.0",
+  "sendStatistics": "disabled",
+  "signature": "IRwUSoNGnnwrIZXLdrEJAFJYvpghzjCxGQzB0UhAeoQiuypTw58oNQMpa538Y5byFwEKcp+GLoCy2WJoGvbVviGe0+SheBxKYhNhzRL1o2eKW+TIBNfiW6TgpmewSmikoYMmXFsClc+VZf1W8kVdEr7Zw3weda65oqZQXBlsoCWddLV233mYFg1c+vHkGu3rBQWMGN+uwQggk+MfsgVraeGUda6bGGX8gcL5twK7r6xKhT/zVplCpmsQ4SsHcpv7pvCkkaYgCurbAUdW2bZsB0HovAgepHh76Dh/483cq1xD1FO8wARViF+c2EmOCdGOsHC79ZbYjECs/8Jh3Zb7YYOfO88qAyHT7fEivj+nmSZSoFqh+oalIWIaZSiqlJPqi8CFjfXsVCHuz+98oQR67NnhX2dPgPaIfreNfJVhFxuVT8zNoYyAHcElhNUJi1Fxb/Bo+X8CjZqOg7mvJ+1ljc/JtnXusiqHMpPnwXNu/lAYa++jXljDiXYjqTSwQCfyKawRSROCktEr5Lvrt80Lrycz8T8+oU96nW1wq0qMMTnigv/fHbc5vZPHae9rDM9IkJheonHenLANOiBKvfGrzz7h0QuKXibq/N9t4jyB2kaCU4Wt8dqL6Dow4WwTyxi+8SXYnkMXDnDq0a25b+85P8MJou4ZUPwXQot02jSbrnk="
+}
